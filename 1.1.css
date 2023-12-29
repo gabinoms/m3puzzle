@@ -3,8 +3,7 @@
 	margin: 0;
 }
 
-canvas {
-	background: #aaa;
+canvas, img {
 	display: block;
 	margin: 0 auto;
 	width: 640;
